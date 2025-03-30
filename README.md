@@ -58,8 +58,7 @@ En este repositorio, documentaré todas las tareas, proyectos y aprendizajes adq
    - Correlación educación/acceso a empleo formal  
 
 🔗 **Repositorio**: [Ver análisis completo](https://github.com/d4na3l/empleabilidad-jovenes-VE)  
-📂 **Dataset Sample**: [Datos preliminares]([https://github.com/d4na3l/empleabilidad-jovenes-VE/tree/main/notebooks](https://github.com/d4na3l/empleabilidad-jovenes-VE/tree/main/data/raw))
-
----
+📂 **Dataset Sample**: [Datos preliminares](https://github.com/d4na3l/empleabilidad-jovenes-VE/tree/main/notebooks](https://github.com/d4na3l/empleabilidad-jovenes-VE/tree/main/data/raw)
+--
 
 ## 📂 Estructura del Repositorio
