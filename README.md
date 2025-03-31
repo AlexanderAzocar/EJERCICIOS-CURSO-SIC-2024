@@ -23,14 +23,14 @@ En este repositorio, documentaré todas las tareas, proyectos y aprendizajes adq
 
 | Semana           | Tema Principal                   | Actividades y Entregas                                                                                                                                        
 |------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Semana 1-3**   | **Fundamentos de Python**        | - Sintaxis básica, estructuras de datos.<br>- Ejercicios prácticos con listas, diccionarios y funciones.<br>- Proyecto: Calculadora de estadísticas descriptivas. 
-| **Semana 4-6**   | **Introducción a Ciencia de Datos** | - Manipulación de datos con Pandas.<br>- Visualización con Matplotlib/Seaborn.<br>- Análisis exploratorio (EDA) de un dataset real.
-| **Semana 7-9**   | **Estadística para Machine Learning** | - Distribuciones, pruebas de hipótesis.<br>- Regresión lineal y logística.<br>- Proyecto: Predicción de precios de viviendas.
+| **Semana 1-3**   | **Fundamentos de Python**        | - Sintaxis básica, estructuras de datos.<br>- Ejercicios prácticos con listas, diccionarios y funciones.<br>- Proyecto: Calculadora de estadísticas descriptivas.| [Carpeta Semana 1-3](/semanas/1-3) |
+| **Semana 4-6**   | **Introducción a Ciencia de Datos** | - Manipulación de datos con Pandas.<br>- Visualización con Matplotlib/Seaborn.<br>- Análisis exploratorio (EDA) de un dataset real. | [Carpeta Semana 4-6](/semanas/4-6) |
+| **Semana 7-9**   | **Estadística para Machine Learning** | - Distribuciones, pruebas de hipótesis.<br>- Regresión lineal y logística.<br>- Proyecto: Predicción de precios de viviendas. | [Carpeta Semana 7-9](/semanas/7-9) |
 | **Semana 10**    | **Entrega del Proyecto de Pyhton** | - Análisis de Empleabilidad de Jóvenes en Venezuela.
-| **Semana 11-12** | **Machine Learning Supervisado** | - Clasificación con árboles de decisión y SVM.<br>- Evaluación de modelos (matriz de confusión, ROC-AUC).
-| **Semana 13-15** | **Aprendizaje No Supervisado**   | - Clustering con K-Means y DBSCAN.<br>- Reducción de dimensionalidad (PCA).<br>- Proyecto: Segmentación de mercado.
-| **Semana 16-18** | **Redes Neuronales y Deep Learning** | - Introducción a TensorFlow/Keras.<br>- Entrenamiento de redes convolucionales (CNN).<br>- Proyecto: Reconocimiento de imágenes MNIST. 
-| **Semana 19-21** | **Procesamiento de Lenguaje Natural (NLP)** | - Tokenización, embeddings (Word2Vec).<br>- Modelos de clasificación de texto.<br>- Proyecto: Análisis de sentimientos en redes sociales.
+| **Semana 11-12** | **Machine Learning Supervisado** | - Clasificación con árboles de decisión y SVM.<br>- Evaluación de modelos (matriz de confusión, ROC-AUC). | [Carpeta Semana 10-12](/semanas/10-12) |
+| **Semana 13-15** | **Aprendizaje No Supervisado**   | - Clustering con K-Means y DBSCAN.<br>- Reducción de dimensionalidad (PCA).<br>- Proyecto: Segmentación de mercado. | [Carpeta Semana 13-15](/semanas/13-15) |
+| **Semana 16-18** | **Redes Neuronales y Deep Learning** | - Introducción a TensorFlow/Keras.<br>- Entrenamiento de redes convolucionales (CNN).<br>- Proyecto: Reconocimiento de imágenes MNIST.  | [Carpeta Semana 16-18](/semanas/16-18) |
+| **Semana 19-21** | **Procesamiento de Lenguaje Natural (NLP)** | - Tokenización, embeddings (Word2Vec).<br>- Modelos de clasificación de texto.<br>- Proyecto: Análisis de sentimientos en redes sociales. | [Carpeta Semana 19-21](/semanas/19-21) |
 | **Semana 22-24** | **Proyecto Final Integrador**    | - Desarrollo de un modelo de IA end-to-end.<br>- Presentación final y documentación técnica.<br>- Dataset: Personalizado.
 
 ---
